@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "805076907466",
+    "project_id": "paytests-dcd62",
+    "storage_bucket": "paytests-dcd62.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:805076907466:android:83b110baeb9162938b4b33",
+        "android_client_info": {
+          "package_name": "co.agkinu.googlepaytests"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "805076907466-hl5pk47fshconigp8s46q7sc4c9csmd2.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAYEM4iI3_aQevf7ozYBRX0dUKgeKt-P3Y"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "805076907466-hl5pk47fshconigp8s46q7sc4c9csmd2.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
